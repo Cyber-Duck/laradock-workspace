@@ -60,6 +60,8 @@ RUN apt-get update && \
         postgresql-client \
     && apt-get clean
 
+RUN update-alternatives --set php /usr/bin/php5.6
+
 #####################################
 # Composer:
 #####################################
