@@ -45,7 +45,7 @@ RUN apt-get update && \
         php5.6-memcached \
         php5.6-gd \
         pkg-config \
-        php-dev \
+        php5.6-dev \
         libcurl4-openssl-dev \
         libedit-dev \
         libssl-dev \
