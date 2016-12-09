@@ -2,6 +2,6 @@
 
 This is a fork of https://github.com/LaraDock/workspace.
 
-We've simply made it available for php5.6 within the tag `php-5.6`.
+We've simply added PHP 5.6 support too. You can use either the php-7.0 or the php-5.6 docker tag.
 
-Visit the [LaraDock](https://github.com/LaraDock/laradock) repository for more information.
+Visit the LaraDock repository for more information.
